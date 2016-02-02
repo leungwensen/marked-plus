@@ -1221,7 +1221,7 @@
             }
             case 'toc':
             {
-                return '<p id = "toc"></p>';
+                return '<div id = "toc"></div>';
             }
             case 'text':
             {
