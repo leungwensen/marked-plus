@@ -1,0 +1,35 @@
+{
+    "name": "marked-plus",
+    "title": "marked-plus",
+    "description": "marked with a few more features",
+    "homepage": "https://github.com/leungwensen/marked-plus",
+    "version": "0.0.20160202",
+    "main": "marked-plus.js",
+    "license": "MIT",
+    "author": {
+        "description": "team of leungwensen",
+        "url": "https://github.com/orgs/leungwensen/teams"
+    },
+    "bugs": {
+        "url": "https://github.com/leungwensen/marked-plus/issues"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "scripts": {
+    },
+    "engines": {
+        "node": ">=0.8.0"
+    },
+    "keywords": [
+        "markdown",
+        "markdown parser",
+        "marked",
+        "marked-plus"
+    ],
+    "repository": {
+        "type": "https",
+        "url": "https://github.com/leungwensen/marked-plus.git"
+    }
+}
